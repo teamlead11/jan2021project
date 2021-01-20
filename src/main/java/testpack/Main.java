@@ -14,6 +14,9 @@ public class Main {
 	public static void empID() {
 		System.out.println("Employee ID is 1234");
 	}
+	public static void empname() {
+		System.out.println("Employee Name is Vasanth");
+	}
 
 	public static void add(int a, int b) {
 		System.out.println(a + b);
@@ -39,6 +42,8 @@ public class Main {
 			}
 			System.out.println(s1);
 		}
+				
+			}
 	}
 
 }
