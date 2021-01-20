@@ -26,4 +26,19 @@ public class Main {
 	{
 	System.out.println("my branch is kube");
 }
+	public class Stringreversekube {
+		
+			String s1 = "";
+			String s = "india";{
+			for (int l = s.length() - 1; l >= 0; l--) {
+				System.out.println(s.length());
+				char re = s.charAt(l);
+				System.out.println(s.charAt(l));
+				s1 = s1 + re;
+
+			}
+			System.out.println(s1);
+		}
+	}
+
 }
