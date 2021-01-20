@@ -6,5 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("my framework component");
 	}
+	public static void empID() {
+		System.out.println("Employee ID is 1234");
+	}
 
 }
