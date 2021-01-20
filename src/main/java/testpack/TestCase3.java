@@ -7,4 +7,7 @@ public class TestCase3 {
 		System.out.println("adding test case");
 	}
 
+	public void add() {
+		System.out.println("some code");
+	}
 }
