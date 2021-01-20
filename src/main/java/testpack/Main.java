@@ -8,6 +8,9 @@ public class Main {
 		System.out.println("Framework component added by Karthick");
 
 	}
+	public static void empID() {
+		System.out.println("Employee ID is 1234");
+	}
 
 	public static void add(int a, int b) {
 		System.out.println(a + b);
