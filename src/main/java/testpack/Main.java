@@ -53,6 +53,13 @@ public class Main {
 					}
 					System.out.println(s1);
 				}
+					public void surya() {
+					String in = "Surya";
+
+				    char[] reverse = in.toCharArray();
+
+				    for (int i = reverse.length - 1; i >= 0; i--)
+				        System.out.print(reverse[i]);
 	}
 	}
-}
+}}
