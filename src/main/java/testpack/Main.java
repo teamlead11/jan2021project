@@ -17,4 +17,8 @@ public class Main {
 	public void add(int a, int b, int c) {
 		System.out.println("a+b+c");
 	}
+	
+	public void test1() {
+		System.out.println("will check in remote");
+	}
 }
